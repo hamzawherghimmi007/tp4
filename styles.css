@@ -1,0 +1,29 @@
+body {
+    background-color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+    font-family: papyrus, fantasy;
+    font-style: italic;
+    font-size: 24px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: teal;
+    text-shadow: 3px 3px 20px teal;
+}
+
+p {
+    color: grey;
+    font-family: century gothic;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+li {
+    color: purple;
+    font-family: rockwell;
+    font-size: 36px;
+    text-align: justify;
+}
